@@ -1,0 +1,2 @@
+# WeatherappType
+TypeScript apps
